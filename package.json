@@ -1,0 +1,24 @@
+{
+  "name": "music-festival",
+  "version": "1.0.0",
+  "description": "Proyecto con GULP,  SASS Y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css",
+    "task": "gulp task"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick-brsa/musc-festival.git"
+  },
+  "author": "Erick Briones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick-brsa/musc-festival/issues"
+  },
+  "homepage": "https://github.com/erick-brsa/musc-festival#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.63.6"
+  }
+}
